@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#F9FAFB"/>
+  <circle cx="80" cy="70" r="25" fill="#E5E7EB"/>
+  <circle cx="120" cy="70" r="25" fill="#E5E7EB"/>
+  <path d="M 60 120 L 100 110 L 140 120 L 140 160 L 60 160 Z" fill="#D1D5DB"/>
+  <text x="100" y="180" font-size="12" fill="#9CA3AF" text-anchor="middle" font-family="Arial">No Customers</text>
+</svg>
