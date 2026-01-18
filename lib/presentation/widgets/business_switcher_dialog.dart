@@ -45,6 +45,7 @@ class BusinessSwitcherDialog extends StatelessWidget {
               return Card(
                 margin: const EdgeInsets.only(bottom: 12),
                 color: isSelected
+                    // ignore: deprecated_member_use
                     ? AppColors.secondary.withOpacity(0.1)
                     : null,
                 child: ListTile(
@@ -179,3 +180,4 @@ class _AddBusinessDialogState extends State<_AddBusinessDialog> {
       ],
     );
   }
+}
